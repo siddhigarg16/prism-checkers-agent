@@ -1,0 +1,5 @@
+pydraughts==0.6.7
+transformers==4.49.0
+peft==0.14.0
+datasets==3.3.2
+accelerate==1.4.0
